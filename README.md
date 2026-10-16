@@ -8,7 +8,7 @@ Exploratory data analysis of Netflix's catalogue (7,789 titles) using Python. Th
 
 ## Dataset
 
-- **File:** `8__Netflix_Dataset.csv` (source: add the link here, e.g. Kaggle)
+- **File:** `8__Netflix_Dataset.csv` 
 - **Size:** 7,789 rows × 11 columns
 - **Columns:** `Show_Id`, `Category` (Movie / TV Show), `Title`, `Director`, `Cast`, `Country`, `Release_Date` (date added to Netflix), `Rating`, `Duration`, `Type` (genres), `Description`
 
